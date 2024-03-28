@@ -1,0 +1,17 @@
+History of js file history.txt
+Befor js web pages were static
+NetScape Navigator 1.0 based on browser
+Mocha first language changed into Live script then it it became to java script which is 
+NetScape Navigator 2.0
+New language added in NetScape JScript only works in IE
+that is internet explorer
+ecma script standard is a standard for java script 
+Reincaenation of NetScape is firefox browser
+AJAX is a technology that allows you to update a part of a web page without reloading the whole page 
+JQuery is a library that simplifies AJAX programming
+JavaScript is a scripting language that allows you to add interactivity to web pages 
+Just in time compiler is a compiler that compiles the code as it is being typed
+node js is a server side javascript
+We can use it for web development and mobile development
+ES 2024 is a new version of javascript
+JS is a scripting language that allows you to add interactivity to web pages
